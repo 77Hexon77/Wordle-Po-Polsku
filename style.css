@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+div.center {
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+  }
+
+
+body{
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+}
+
+input.display{
+    width: 70px;
+    height: 70px;   
+    text-align: center;
+    font-size: 65px;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input.player{
+    width: 400px;
+    height: 22px;
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center  ;
+}
+
+.green{
+    background-color: chartreuse;
+}
+
+.yellow{
+    background-color: gold;
+}
+
+.resetBtn{
+    background-color: blueviolet;
+}
+
+input.log{
+    width: 290px;
+    height: 22px;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+    text-align: center  ;
+    margin-top: 5px;
+}
